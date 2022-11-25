@@ -1,0 +1,7 @@
+.env
+.idea
+archived_might_use_later
+serverdb
+venv
+test.json
+__pycache__
